@@ -1,2 +1,3 @@
-# Introduction-to-pandas
-Introduction to Pandas
+# Data Science Libraries
+This repo include libraries of data science for beginners
+
